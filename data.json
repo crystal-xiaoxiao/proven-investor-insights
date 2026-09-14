@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "title": "Proven Investor Insights",
+    "owner": "GurryShark Capital",
+    "last_updated": "2026-09-12",
+    "window_start": "2026-08-29",
+    "window_end": "2026-09-12",
+    "period_summary": "首期基线。本期摘要由 Routine 每次更新时重写：3–5 句，只写本期观察窗口内投资人自己说过的话里体现出的方向变化，不做推演。",
+    "notice": "过往业绩记录为种子数据，请以 Cowork artifact 中已核实的版本覆盖。"
+  },
+  "waves": [
+    { "id": "pc", "label": "PC 互联网" },
+    { "id": "mobile", "label": "移动互联网" },
+    { "id": "cloud", "label": "云 / SaaS" },
+    { "id": "crypto", "label": "加密" },
+    { "id": "ai", "label": "AI" }
+  ],
+  "investors": [
+    {
+      "id": "khosla",
+      "name": "Vinod Khosla",
+      "firm": "Khosla Ventures",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@vkhosla", "url": "https://x.com/vkhosla" },
+        { "type": "blog", "label": "Khosla Ventures", "url": "https://www.khoslaventures.com/insights" },
+        { "type": "podcast", "label": "各类播客与媒体专访（Bloomberg、CNBC、All-In Summit 等）" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "pc", "bet": "Sun Microsystems（联合创始人）；Juniper Networks（KPCB 时期，1996）", "year": "1982 / 1996" },
+        { "wave": "mobile", "bet": "Square、DoorDash、Stripe（早期）", "year": "2009–2013" },
+        { "wave": "ai", "bet": "OpenAI 首家 VC 投资人（约 5,000 万美元）", "year": "2019" }
+      ]
+    },
+    {
+      "id": "gerstner",
+      "name": "Brad Gerstner",
+      "firm": "Altimeter Capital",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@altcap", "url": "https://x.com/altcap" },
+        { "type": "podcast", "label": "BG2 Pod（与 Bill Gurley 共同主持，双周）", "url": "https://www.youtube.com/@bg2pod" },
+        { "type": "media", "label": "CNBC 专访" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Uber、Grab、ByteDance（私募）", "year": "2014–2016" },
+        { "wave": "cloud", "bet": "Snowflake（IPO 前后重仓）", "year": "2020" },
+        { "wave": "ai", "bet": "Meta 公开信「Time to get fit」后加仓；Nvidia 重仓", "year": "2022–2023" }
+      ]
+    },
+    {
+      "id": "baker",
+      "name": "Gavin Baker",
+      "firm": "Atreides Management",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@GavinSBaker", "url": "https://x.com/GavinSBaker" },
+        { "type": "podcast", "label": "Invest Like the Best、BG2 等播客嘉宾" },
+        { "type": "media", "label": "Atreides 投资人信（偶有公开摘录）" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Fidelity OTC 基金时期早期重仓 Nvidia、Tesla", "year": "2013–2017" },
+        { "wave": "ai", "bet": "Atreides 持续重仓 Nvidia 与 AI 算力链", "year": "2019–" }
+      ]
+    },
+    {
+      "id": "gil",
+      "name": "Elad Gil",
+      "firm": "独立投资人",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@eladgil", "url": "https://x.com/eladgil" },
+        { "type": "substack", "label": "Elad Blog", "url": "https://blog.eladgil.com" },
+        { "type": "podcast", "label": "No Priors（与 Sarah Guo 共同主持）", "url": "https://www.youtube.com/@NoPriorsPodcast" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Airbnb、Pinterest、Square、Instacart（天使）", "year": "2009–2013" },
+        { "wave": "cloud", "bet": "Stripe、Gusto、Notion（早期）", "year": "2011–2019" },
+        { "wave": "crypto", "bet": "Coinbase（天使）", "year": "2012" },
+        { "wave": "ai", "bet": "Perplexity、Harvey、Character.AI、Mistral", "year": "2022–2024" }
+      ]
+    },
+    {
+      "id": "andreessen",
+      "name": "Marc Andreessen",
+      "firm": "Andreessen Horowitz",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@pmarca", "url": "https://x.com/pmarca" },
+        { "type": "substack", "label": "pmarca Substack", "url": "https://pmarca.substack.com" },
+        { "type": "podcast", "label": "a16z Podcast；Lex Fridman、Joe Rogan 等长访谈" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "pc", "bet": "Netscape（联合创始人）", "year": "1994" },
+        { "wave": "mobile", "bet": "Facebook（董事 / 天使）、Skype、Twitter、Airbnb", "year": "2008–2011" },
+        { "wave": "cloud", "bet": "GitHub、Slack、Databricks", "year": "2012–2014" },
+        { "wave": "crypto", "bet": "Coinbase（A 轮）", "year": "2013" },
+        { "wave": "ai", "bet": "Databricks 持续加注；Mistral、ElevenLabs、xAI", "year": "2023–2024" }
+      ]
+    },
+    {
+      "id": "laffont",
+      "name": "Philippe Laffont",
+      "firm": "Coatue Management",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "media", "label": "Coatue East Meets West（EMW）年度报告", "url": "https://www.coatue.com" },
+        { "type": "podcast", "label": "Invest Like the Best、Bloomberg 专访" },
+        { "type": "x", "handle": "Coatue 官方账号", "url": "https://x.com/coatue" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Snap、Spotify、ByteDance、美团、DoorDash", "year": "2013–2018" },
+        { "wave": "ai", "bet": "OpenAI（2024 轮）、Anduril、Databricks", "year": "2023–2024" }
+      ]
+    },
+    {
+      "id": "kushner",
+      "name": "Josh Kushner",
+      "firm": "Thrive Capital",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "x", "handle": "@joshuakushner", "url": "https://x.com/joshuakushner" },
+        { "type": "media", "label": "公开发言极少；主要是 Bloomberg / Fortune 等偶发专访与 Thrive 公告" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Instagram（B 轮，被 Facebook 收购前）、Warby Parker", "year": "2012" },
+        { "wave": "cloud", "bet": "Stripe、GitHub、Spotify", "year": "2012–2015" },
+        { "wave": "ai", "bet": "OpenAI（2023–2024 领投）、Anduril、Databricks", "year": "2023–2024" }
+      ]
+    },
+    {
+      "id": "son",
+      "name": "孙正义",
+      "firm": "SoftBank Group",
+      "region": "JP",
+      "search_language": "en",
+      "sources": [
+        { "type": "media", "label": "SoftBank 财报电话会、股东大会、SoftBank World 主题演讲", "url": "https://group.softbank/en/ir" },
+        { "type": "media", "label": "Nikkei、Bloomberg 报道" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "pc", "bet": "Yahoo / Yahoo Japan", "year": "1995–1996" },
+        { "wave": "mobile", "bet": "阿里巴巴（2,000 万美元）；Sprint；Vision Fund（Uber、DoorDash、Coupang、ByteDance）", "year": "2000 / 2013 / 2017–" },
+        { "wave": "ai", "bet": "ARM（2016 收购）；OpenAI（2025 领投 400 亿美元）；Stargate", "year": "2016 / 2025" }
+      ]
+    },
+    {
+      "id": "xuxin",
+      "name": "徐新",
+      "firm": "今日资本",
+      "region": "CN",
+      "search_language": "zh",
+      "sources": [
+        { "type": "media", "label": "演讲与专访（36氪、晚点 LatePost、投中网、混沌学园）" },
+        { "type": "wechat", "label": "今日资本 微信公众号" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "pc", "bet": "网易（霸菱亚洲时期）；京东", "year": "1999 / 2006–2007" },
+        { "wave": "mobile", "bet": "美团", "year": "2010–2011" },
+        { "wave": "ai", "bet": "Kimi（月之暗面）、智谱", "year": "2024" }
+      ]
+    },
+    {
+      "id": "sacerdote",
+      "name": "Alex Sacerdote",
+      "firm": "Whale Rock Capital",
+      "region": "US",
+      "search_language": "en",
+      "sources": [
+        { "type": "media", "label": "公开发言极少；主要看 13F 持仓变化、Sohn 等会议偶发演讲" }
+      ],
+      "latest": [],
+      "track_record": [
+        { "wave": "mobile", "bet": "Tesla、Amazon（长期集中持仓）", "year": "2013–" },
+        { "wave": "ai", "bet": "Nvidia、AMD（早期集中持仓）", "year": "2016–" }
+      ]
+    }
+  ]
+}
